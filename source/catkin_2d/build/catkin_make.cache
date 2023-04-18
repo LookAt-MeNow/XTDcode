@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/zhang/2D_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/2D_ws/install -G Unix Makefiles
