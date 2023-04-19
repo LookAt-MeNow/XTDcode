@@ -1,0 +1,8 @@
+prefix=/home/zhang/catkin_robarm/devel
+
+Name: le_arm
+Description: Description of le_arm
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

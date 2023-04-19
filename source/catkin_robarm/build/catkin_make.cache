@@ -1,0 +1,2 @@
+le_arm:le_arm_moveit_config:roboticsgroup_gazebo_plugins
+-DCATKIN_DEVEL_PREFIX=/home/zhang/catkin_robarm/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/catkin_robarm/install -G Unix Makefiles
